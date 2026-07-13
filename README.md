@@ -1,9 +1,12 @@
 # <p align="center">OvercookedController</p>
 
-This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is split into three distinct parts, each serving a specific function:
+**A custom, motion-controlled hardware interface designed for "Overcooked! 2".**
+
 <div align="center">
 <img src="https://github.com/eske4/P5-OvercookedController/blob/main/images/AllComponents.jpg" width="600">
 </div>
+
+**Project Purpose:** Developed as part of a 5th-semester Interaction Design course, this project explores physical computing by replacing traditional inputs with gesture-based interactions. The goal was to increase gameplay immersion through tactile feedback and motion tracking while maintaining full compatibility with the game.
 
 ## <p align="center">Parts:</p>
 
